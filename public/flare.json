@@ -1,0 +1,474 @@
+{
+    "name": "Dataset",
+    "children": [
+        {
+            "name": "CIA",
+            "children": [
+                {
+                    "name": "CIA_1",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_2",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_3",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_4",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_5",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_6",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_7",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_8",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_9",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_10",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_11",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_12",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_13",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_14",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_15",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_16",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_17",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_18",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_19",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_40",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_21",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_22",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_23",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_24",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_25",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_26",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_27",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_28",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_29",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_30",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_31",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_32",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_33",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_34",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_35",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_36",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_37",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_38",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_39",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_40",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_41",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_42",
+                    "value": "40"
+                },
+                {
+                    "name": "CIA_43",
+                    "value": "40"
+                }
+            ]
+        },
+        {
+            "name": "DIA",
+            "children": [
+                {
+                    "name": "DIA_1",
+                    "value": "100"
+                },
+                {
+                    "name": "DIA_2",
+                    "value": "100"
+                },
+                {
+                    "name": "DIA_3",
+                    "value": "100"
+                }
+            ]
+        },
+        {
+            "name": "FBI",
+            "children": [
+                {
+                    "name": "FBI_1",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_2",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_3",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_4",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_5",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_6",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_7",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_8",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_9",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_10",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_11",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_12",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_13",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_14",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_15",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_16",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_17",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_18",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_19",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_40",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_21",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_22",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_23",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_24",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_25",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_26",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_27",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_28",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_29",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_30",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_31",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_32",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_33",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_34",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_35",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_36",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_37",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_38",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_39",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_40",
+                    "value": "40"
+                },
+                {
+                    "name": "FBI_41",
+                    "value": "40"
+                }
+            ]
+        },
+        {
+            "name": "NSA",
+            "children": [
+                {
+                    "name": "NSA_1",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_2",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_3",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_4",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_5",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_6",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_7",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_8",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_9",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_10",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_11",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_12",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_13",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_14",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_15",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_16",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_17",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_18",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_19",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_40",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_21",
+                    "value": "40"
+                },
+                {
+                    "name": "NSA_22",
+                    "value": "40"
+                }
+            ]
+        },
+        {
+            "name": "USCBP",
+            "children": [
+                {
+                    "name": "USCBP_1",
+                    "value": "50"
+                },
+                {
+                    "name": "USCBP_2",
+                    "value": "50"
+                }
+            ]
+        }
+    ]
+}
