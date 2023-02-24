@@ -34,7 +34,7 @@ This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the
       .on("click", clicked);
 
     path.append("title")
-      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
+      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}\nDescription: ${d.data.description}`);
 
     const label = g.append("g")
       .attr("pointer-events", "none")
@@ -64,9 +64,9 @@ This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the
         y0: Math.max(0, d.y0 - p.depth),
         y1: Math.max(0, d.y1 - p.depth)
       });
-
+    
       const t = g.transition().duration(750);
-
+    
       // Transition the data on all arcs, even the ones that aren’t visible,
       // so that if this transition is interrupted, entering arcs will start
       // the next transition from the desired position.
@@ -80,7 +80,7 @@ This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the
         })
         .attr("fill-opacity", d => arcVisible(d.target) ? (d.children ? 0.6 : 0.4) : 0)
         .attrTween("d", d => () => arc(d.current));
-
+    
       label.filter(function (d) {
         return +this.getAttribute("fill-opacity") || labelVisible(d.target);
       }).transition(t)
